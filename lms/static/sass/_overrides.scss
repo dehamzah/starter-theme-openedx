@@ -1,5 +1,26 @@
-// Change header background
+.header-global h1.logo img {
+	max-height: 40px;
+}
+
 .home > header {
 	background: url('../starter-theme/images/kids.jpeg');
 	background-size: cover;
+	background-position: 50%;
+
+	.outer-wrapper {
+		padding-top: 150px;
+	    padding-bottom: 150px;
+	}
+	.title {
+		background: transparent;
+		box-shadow: none;
+		margin-left: 0;
+	}
+	> .heading-group h1 {
+		color: #fff;
+		text-shadow: none;
+	}
+	> .heading-group p {
+		color: #fff;
+	}
 }
