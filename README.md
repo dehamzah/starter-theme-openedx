@@ -1,4 +1,7 @@
 # starter-theme-openedx
+
+![Starter theme screenshot](screenshot.png)
+
 Starter theme for developing comprehensive theme on Open edX
 
 ## How to use
